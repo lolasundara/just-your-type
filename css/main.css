@@ -100,4 +100,39 @@ p {
     top: 3.5em;
     left: .125em;
   }
+
+}
+
+@media only screen and (min-width: 38em) {
+
+  .pos-ab {
+    top: 11em;
+  }
+
+  .f {
+    left: -.25em;
+  }
+
+  .y {
+    left: 3.75em;
+  }
+
+  .l {
+    top: -.5em;
+    left: 2em;
+  }
+
+  .w {
+    top: 4.5em;
+    left: -.5em;
+  }
+
+  .a2 {
+    left: .25em;
+  }
+
+  .y2 {
+    left: 1.5em;
+  }
+
 }
