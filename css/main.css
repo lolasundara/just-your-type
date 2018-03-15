@@ -4,21 +4,55 @@
 
 .pos-ab {
   position: absolute;
-  top: 4.25em;
+  top: 6em;
 }
 
-.opacity {
-  opacity: .125;
-}
-
-h1 {
+h1, h2 {
   font-family: 'Oswald', sans-serif;
-}
-
-html {
-  background-color: afe1f4;
+  opacity: .125;
+  color: #000;
 }
 
 p {
   font-family: 'Lora', serif;
+}
+
+.f {
+  transform: rotate(-15deg);
+  left: .25em;
+}
+
+.l {
+  transform: rotate(10deg);
+  left: .75em;
+  top: .25em;
+}
+
+.y {
+  transform: rotate(-12deg);
+  left: 1.25em;
+}
+
+.a {
+  transform: rotate(10deg);
+  top: 1.5em;
+  left: -1em;
+}
+
+.w {
+  transform: rotate(-15deg);
+  top: 2.5em;
+  left: -.95em;
+}
+
+.a2 {
+  transform: rotate(10deg);
+  top: -.125em;
+  left: 1.65em;
+}
+
+.y2 {
+  transform: rotate(-15deg);
+  top: .75em;
+  left: 1.75em;
 }
