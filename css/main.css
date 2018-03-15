@@ -136,3 +136,27 @@ p {
   }
 
 }
+
+@media only screen and (min-width: 60em) {
+
+  .l {
+    left: 3em;
+  }
+
+  .y {
+    display: none;
+  }
+
+  .w {
+    left: 1em;
+  }
+
+  .a2 {
+    display: none;
+  }
+
+  .y2 {
+    left: 5em;
+  }
+
+}
