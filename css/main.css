@@ -8,13 +8,13 @@
 }
 
 h1, h2 {
-  font-family: 'Oswald', sans-serif;
+  font-family: Oswald, sans-serif;
   opacity: .125;
   color: #000;
 }
 
 p {
-  font-family: 'Lora', serif;
+  font-family: Lora, serif;
 }
 
 .f {
