@@ -4,17 +4,22 @@
 
 .pos-ab {
   position: absolute;
-  top: 6em;
+  top: 8em;
+}
+
+html {
+  background-color: #87cefa;
 }
 
 h1, h2 {
   font-family: Oswald, sans-serif;
-  opacity: .125;
-  color: #000;
+  opacity: .5;
+  color: #fff;
 }
 
 p {
   font-family: Lora, serif;
+  color: #fff;
 }
 
 .f {
@@ -35,24 +40,24 @@ p {
 
 .a {
   transform: rotate(10deg);
-  top: 1.5em;
+  top: 4.75em;
   left: -1em;
 }
 
 .w {
   transform: rotate(-15deg);
-  top: 2.5em;
+  top: 4.2em;
   left: -.95em;
 }
 
 .a2 {
-  transform: rotate(10deg);
-  top: -.125em;
+  transform: rotate(-20deg);
+  top: 3.25em;
   left: 1.65em;
 }
 
 .y2 {
-  transform: rotate(-15deg);
-  top: .75em;
+  transform: rotate(18deg);
+  top: 2.75em;
   left: 1.75em;
 }
