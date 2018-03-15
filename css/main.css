@@ -4,9 +4,21 @@
 
 .pos-ab {
   position: absolute;
-  top: 4.5em;
+  top: 4.25em;
 }
 
 .opacity {
   opacity: .125;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+}
+
+html {
+  background-color: afe1f4;
+}
+
+p {
+  font-family: 'Lora', serif;
 }
