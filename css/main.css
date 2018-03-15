@@ -61,3 +61,43 @@ p {
   top: 2.75em;
   left: 1.75em;
 }
+
+@media only screen and (min-width: 25em) {
+
+  .pos-ab {
+    top: 10em;
+  }
+
+  .f {
+    transform: rotate(-30deg);
+    left: .125em;
+  }
+
+  .l {
+    transform: rotate(20deg);
+    top: .125em;
+    left: 1.25em;
+  }
+
+  .y {
+    left: 2.5em;
+  }
+
+  .a {
+    top: 5.75em;
+  }
+
+  .w {
+    top: 4em;
+  }
+
+  .a2 {
+    top: 5em;
+    left: -.5em;
+  }
+
+  .y2 {
+    top: 3.5em;
+    left: .125em;
+  }
+}
