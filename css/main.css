@@ -2,8 +2,7 @@
   position: relative;
 }
 
-.pos-ab {
-  position: absolute;
+.absolute {
   top: 8em;
 }
 
